@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "url": "https://github.com/ТВОЙ_НИК/bik-bot/releases/download/v1.0.1/bot_gui.exe",
-  "sha256": "ЗАПОЛНИМ_ПОЗЖЕ",
-  "size": 0,
+  "sha256": "1C0ADAE3D3C12056A52FF0C69595F997F339E95C787C180EBB187BACE824370A",
+  "size": 303942849,
   "changelog": "- Первый релиз с автообновлением"
 }
