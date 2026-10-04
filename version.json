@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/Vezoqx/bik-bot/releases/download/v1.0.3/BikBot.exe",
-  "sha256": "b5fadda8e438846510680ee3f96516c71de3f5404b264851961ef728ceb53fe3",
-  "size": 303934448,
-  "changelog": "Изменено масштабирование"
+  "version": "1.0.4",
+  "url": "https://github.com/Vezoqx/bik-bot/releases/download/v1.0.4/BikBot.exe",
+  "sha256": "f6a6de07ea4fb1a290908dc5e1b4446406b895b70c434a1f72c3c9faeaf3629d",
+  "size": 303935361,
+  "changelog": "Исправлены вылеты"
 }
